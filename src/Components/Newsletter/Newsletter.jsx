@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import image1 from '../../assets/67f52b5121489337312fbf0b_happy-senior-retired-couple-in-retro-vintage-style-2025-03-08-04-35-34-utc-67f52b3ba5336-p-500.webp'
+import image1 from '../../assets/Happy-senior-retired-couple-in-retro-vintage-style.webp'
 import image2 from '../../assets/67c856443d4c948a26b2728a_dsc01528-67c8563398118-p-500.webp'
-import image3 from '../../assets/67c85606e2e1dbb8029bc853_67b5c33e274db7a1ae36d4df-road-trip-uk-campervan-hire-67c855fd41abf-p-500.webp'
+import image3 from '../../assets/road-trip-uk-campervan-hire.webp'
 import image4 from '../../assets/shortForm.webp'
 
 const Newsletter = () => {
